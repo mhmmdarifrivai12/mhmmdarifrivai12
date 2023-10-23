@@ -2,7 +2,7 @@
 
 ### and here is my stats
 
-<a href="mhmmdarifriivai.my.id">My Website, Click Here</a>
+<a href="https://mhmmdarifriivai.my.id/">My Website, Click Here</a>
 <p align="center"><img src="https://www.codewars.com/users/mhmmdarifrivai12/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=mhmmdarifrivai12&show_icons=true&include_all_commits=true&theme=monokai" alt="mhmmdarifrivai12 GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdarifrivai12&theme=monokai"/>
