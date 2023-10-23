@@ -1,4 +1,4 @@
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+### Hi there, I'm Muhammad Arif Rivai 👋
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/mhmmdarifrivai12/badges/large"/><br /><br />
