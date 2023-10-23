@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/muhammad-arif-rivai-479167276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-arif-rivai-479167276" height="30" width="40" /></a>
 <a href="https://fb.com/mhmmdarifrivai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmmdarifrivai" height="30" width="40" /></a>
 <a href="https://instagram.com/mhmmdarifrivai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmdarifrivai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mhmmdarifrivai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mhmmdarifrivai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mhmmdarifrivai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mhmmdarifrivai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
