@@ -25,7 +25,7 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/ukimahfuda">
+  <a href="https://github.com/mhmmdarifrivai">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmdarifrivai12&show_icons=true&theme=transparent&hide_border=true&border_radius=20&card_width=325" />
 </a>
 <a>
@@ -34,6 +34,6 @@
 
   <a href="https://github.com/mhmmdarifrivai12">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukimahfuda&layout=compact&border_radius=20&card_width=815&theme=transparent&hide_border=true&hide=SCSS,Less,Cmake )
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdarifrivai&layout=compact&border_radius=20&card_width=815&theme=transparent&hide_border=true&hide=SCSS,Less,Cmake )
 </a>
 </div>
