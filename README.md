@@ -5,8 +5,8 @@
 💻 Frontend: Vue.js, Tailwind CSS, HTML, JS  
 
 🌱 Learning DevOps & Cloud  
-📫 Reach me at: dedi.efendi@gmail.com  
-🌐 Portfolio: [https://arifdev.com](https://arifdev.com)
+📫 Reach me at: mhmmdarifrivai12@gmail.com  
+🌐 Portfolio: [https://mhmmdarifrivai.vercel.app/](https://mhmmdarifrivai.vercel.app/)
 
 ---
 
@@ -29,20 +29,21 @@
 ---
 
 ### GitHub Stats
-![Muhammad Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifdev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifdev&layout=compact&theme=radical)
+![Followers](https://img.shields.io/github/followers/mhmmdarifrivai12?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/mhmmdarifrivai12?label=Stars&style=social)
+![Public Repos](https://img.shields.io/github/repo-size/mhmmdarifrivai12?label=Public%20Repos)
 
 ---
 
 ### Featured Projects
 #### Backend
-- [Outlook Login Checker](https://github.com/arifdev/outlook-login-checker) – Login Outlook + IMAP Checker (Node.js & Python)
-- [Clinic System Yii1](https://github.com/arifdev/clinic-system) – Sistem Informasi Klinik (Yii1 + PostgreSQL)
-- [REST API Laravel](https://github.com/arifdev/laravel-api) – API Backend untuk aplikasi Fullstack
+- [Outlook Login Checker](https://github.com/mhmmdarifrivai12/outlook-login-checker) – Login Outlook + IMAP Checker (Node.js & Python)
+- [Clinic System Yii1](https://github.com/mhmmdarifrivai12/clinic-system) – Sistem Informasi Klinik (Yii1 + PostgreSQL)
+- [REST API Laravel](https://github.com/mhmmdarifrivai12/laravel-api) – API Backend untuk aplikasi Fullstack
 
 #### Frontend
-- [Portfolio Website](https://github.com/arifdev/portfolio) – Personal website (Vue.js & Tailwind)
-- [Vue Dashboard](https://github.com/arifdev/vue-dashboard) – Admin dashboard template
+- [Portfolio Website](https://github.com/mhmmdarifrivai12/portfolio) – Personal website (Vue.js & Tailwind)
+- [Vue Dashboard](https://github.com/mhmmdarifrivai12/vue-dashboard) – Admin dashboard template
 
 ---
 
